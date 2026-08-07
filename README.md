@@ -198,25 +198,43 @@ Open For: Software Engineering Roles, Full Stack / AI Developer Positions & High
 ## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="180" alt="Top Languages" />
+  <!-- GitHub Trophies -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=mallikarjun086&theme=tokyonight&no-bg=true&no-frame=false&column=6&margin-w=10" alt="GitHub Trophies" width="95%" />
+  </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=mallikarjun086&theme=tokyonight&hide_border=true&background=0d1117" width="90%" alt="Streak Stats" />
+  <!-- Overall Stats & Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0d1117" height="190" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="190" alt="Top Languages" />
 </div>
 
 <br/>
 
-### 🐍 Contribution Activity
+<div align="center">
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjun086&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="95%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=mallikarjun086&theme=tokyonight&hide_border=true&background=0d1117&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" width="95%" alt="Streak Stats" />
+</div>
+
+<br/>
+
+### 🐍 Contribution Activity Graph
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg" width="95%">
   </picture>
 </div>
 
