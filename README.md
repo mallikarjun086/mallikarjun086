@@ -69,7 +69,7 @@ Open For: Software Engineering Roles, Full Stack / AI Developer Positions & High
 
 ### 💻 Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,html,css" alt="Languages" />
 </p>
 
 ### ⚙️ Backend, Microservices & Frameworks
