@@ -1,22 +1,44 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e293b,70:0f172a,100:0d1117&height=220&section=header&text=Mallikarjun%20Gala&fontSize=48&fontColor=38bdf8&animation=fadeIn&fontAlignY=36" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,35:1e293b,70:0f172a,100:0d1117&height=230&section=header&text=Mallikarjun%20Gala&fontSize=46&fontColor=38bdf8&animation=fadeIn&fontAlignY=36" width="100%"/>
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Java+Full+Stack+Developer;Spring+Boot+%26+Microservices+Architect;AI+%26+Enterprise+Software+Enthusiast;Building+Scalable+%26+Robust+Applications" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full+Stack+%26+AI+Systems+Engineer;Java+%26+Spring+Boot+Microservices+Architect;Creator+of+JARVIS+AI+Operating+System;3D+Web+Developer+%26+Computer+Vision+Enthusiast" alt="Typing SVG" />
   </a>
 
+  <br/>
+
   <p align="center">
+    <a href="https://3d-portfolio-m7cq.vercel.app" target="_blank">
+      <img src="https://img.shields.io/badge/🌐_3D_Interactive_Portfolio-Live_Site-38bdf8?style=for-the-badge&logoColor=white" alt="3D Portfolio" />
+    </a>
+    <a href="https://www.linkedin.com/in/mallikarjun-gala-32a45729b" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Mallikarjun_Gala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/mallikarjun086" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-mallikarjun086-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
     <a href="mailto:galamallikarjun@gmail.com">
       <img src="https://img.shields.io/badge/Email-galamallikarjun%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/mallikarjun086">
-      <img src="https://img.shields.io/badge/LinkedIn-Mallikarjun%20Gala-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://github.com/mallikarjun086">
-      <img src="https://img.shields.io/badge/GitHub-mallikarjun086-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
   </p>
+</div>
+
+<br/>
+
+<!-- 3D Portfolio Feature Highlight -->
+<div align="center">
+  <table width="100%">
+    <tr>
+      <td align="center" style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
+        <h3>✨ Experience My 3D Interactive Portfolio ✨</h3>
+        <p>Explore an immersive 3D web experience showcasing my engineering journey, interactive 3D elements, real-time project deployments, and technical stack.</p>
+        <a href="https://3d-portfolio-m7cq.vercel.app" target="_blank">
+          <img src="https://img.shields.io/badge/🚀_Launch_3D_Portfolio-https%3A%2F%2F3d--portfolio--m7cq.vercel.app-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Launch 3D Portfolio"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
@@ -26,18 +48,18 @@
 ## 👨‍💻 About Me
 
 ```yaml
-Name: Mallikarjun Gala
-Degree: B.E. in Computer Science Engineering
-Core Skills: Java Full Stack | Spring Boot | Microservices | React | AI Integration
-Current Focus: Building scalable backend architectures & AI-driven enterprise software
-Learning Goals: Cloud Deployment (AWS), Container Orchestration (Docker/Kubernetes), System Design
-Status: 🚀 Open for Software Engineering Roles & Internships
+Developer: Mallikarjun Gala
+Education: B.E. in Computer Science & Engineering
+Core Domains: Full Stack Engineering | AI Systems | Microservices | Computer Vision | 3D Web Development
+Current Focus: Building Autonomous AI Systems & Scalable Distributed Backend Architectures
+Open For: Software Engineering Roles, Full Stack / AI Developer Positions & High-Impact Projects
 ```
 
-- 🎓 **Computer Science & Engineering Student** with a strong foundation in core Java and modern full-stack development.
-- 💻 **Backend Specialist**: Proficient in constructing robust RESTful APIs, implementing JWT authentication, and managing relational databases.
-- 🤖 **AI Enthusiast**: Integrating machine learning predictive models into enterprise governance and automation platforms.
-- 🧩 **DSA Problem Solver**: Continuously tackling data structures and algorithmic challenges in Java.
+- 🎓 **Computer Science & Engineering Student** driven by building production-grade software, AI agents, and resilient web applications.
+- 🤖 **AI & Systems Engineer**: Developer behind autonomous platforms like **JARVIS AI Operating System** and **AI Software Engineering Intelligence Platform**.
+- ⚙️ **Backend & Microservices Architect**: Experienced in Java, Spring Boot, RESTful APIs, JWT Security, Redis caching, and relational database management.
+- 👁️ **Computer Vision & ML Specialist**: Engineering real-time video analytics, YOLO object detection models, and predictive algorithms.
+- 🌐 **3D & Interactive Web Developer**: Crafting visual 3D web applications with Three.js, React, and modern UI/UX principles.
 
 <br/>
 
@@ -45,26 +67,41 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 
 ## 🛠 Tech Arsenal
 
-### 💻 Languages & Databases
+### 💻 Languages & Core
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,mysql,postgres,html,css" alt="Languages & DB" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,cpp,html,css" alt="Languages" />
 </p>
 
-### ⚙️ Backend & Frameworks
+### ⚙️ Backend, Microservices & Frameworks
 <p>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST_API-005596?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Microservices-008080?style=for-the-badge&logo=diagramsdotnet&logoColor=white"/>
 </p>
 
-### 🎨 Frontend Development
+### 🤖 AI, Machine Learning & Computer Vision
 <p>
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,js" alt="Frontend" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LLM_Agents-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
 
-### 🚀 Cloud, DevOps & Tools
+### 🎨 Frontend, 3D & UI
+<p>
+  <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,bootstrap,vite" alt="Frontend & 3D" />
+</p>
+
+### 🗄️ Databases & Caching
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" alt="Databases" />
+</p>
+
+### 🚀 Cloud, DevOps & Developer Tools
 <p>
   <img src="https://skillicons.dev/icons?i=docker,aws,git,github,postman,idea,vscode,linux,maven" alt="DevOps & Tools" />
 </p>
@@ -78,70 +115,77 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 AI Enterprise Project Governance</h3>
+      <h3 align="center">🤖 AI Software Engineering Intelligence Platform</h3>
       <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Analytics-8A2BE2?style=flat-square"/>
       </p>
-      <p>Enterprise workflow management platform featuring AI-powered project risk prediction, role-based access control (JWT), and real-time governance metrics.</p>
+      <p>An intelligent platform providing comprehensive code intelligence, automated repository health analysis, software development metrics, and AI-driven insights for engineering teams.</p>
       <ul>
-        <li>Integrated ML model for predictive project risk assessment.</li>
-        <li>Secure Spring Boot backend with full RESTful APIs.</li>
+        <li>Automated code analysis & quality scoring workflows.</li>
+        <li>Real-time telemetry and developer productivity metrics.</li>
+        <li>Full-stack architecture integrating AI models with REST APIs.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mallikarjun086"><b>View Repository »</b></a>
+        <a href="https://github.com/mallikarjun086/AI-Software-Engineering-Intelligence-Platform" target="_blank"><b>📦 View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💰 First Salary Blindspot</h3>
+      <h3 align="center">⚡ JARVIS AI Operating System</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/LLM_Agents-8A2BE2?style=flat-square&logo=openai&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Voice_AI-FF4500?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Automation-008080?style=flat-square"/>
       </p>
-      <p>Financial planning application designed to empower first-time earners with smart budgeting insights, tax impact analysis, and salary allocation breakdown.</p>
+      <p>Next-generation AI Operating System featuring natural language voice & text command processing, autonomous system orchestration, agentic workflows, and desktop task automation.</p>
       <ul>
-        <li>Interactive visual dashboard for monthly budget allocation.</li>
-        <li>Automated tax calculation & financial planning algorithms.</li>
+        <li>Multimodal AI interface with real-time speech interaction.</li>
+        <li>Intelligent agent task execution and system control capabilities.</li>
+        <li>Scalable modular architecture designed for personal & system assistance.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mallikarjun086"><b>View Repository »</b></a>
+        <a href="https://github.com/mallikarjun086/JARVIS-AI-Operating-System" target="_blank"><b>📦 View Repository »</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧩 Java DSA Mastery Collection</h3>
+      <h3 align="center">👁️ Third Eye — Computer Vision AI</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Data_Structures-005596?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Algorithms-4B0082?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+        <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Deep_Learning-FF6F00?style=flat-square"/>
       </p>
-      <p>Comprehensive, well-documented repository of core Data Structures & Algorithms implementations in Java for placement preparation and technical interviews.</p>
+      <p>Advanced Computer Vision and real-time surveillance platform engineered for automated video stream detection, object recognition, motion tracking, and security alerts.</p>
       <ul>
-        <li>Includes Arrays, Linked Lists, Trees, Graphs, Dynamic Programming & Sorting.</li>
-        <li>Clean, optimized Java solutions with time & space complexity analysis.</li>
+        <li>High-fps object detection powered by deep learning models.</li>
+        <li>Automated anomaly monitoring and live camera feed analysis.</li>
+        <li>Intuitive visual dashboard for stream telemetry and events.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mallikarjun086"><b>View Repository »</b></a>
+        <a href="https://github.com/mallikarjun086/third-eye" target="_blank"><b>📦 View Repository »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 Personal Portfolio Website</h3>
+      <h3 align="center">🔗 High-Performance URL Shortener & Analytics</h3>
       <p align="center">
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
       </p>
-      <p>Modern interactive portfolio showcasing software engineering projects, technical skills, resume download, and contact details.</p>
+      <p>Ultra-fast microservice backend for URL shortening, custom slug generation, real-time redirection click analytics, rate limiting, and dynamic QR code generation.</p>
       <ul>
-        <li>Responsive, dark-mode aesthetic UI built with React & Tailwind CSS.</li>
-        <li>Seamless smooth scrolling and interactive project showcases.</li>
+        <li>Microsecond redirection using Redis distributed caching.</li>
+        <li>Detailed click analytics (timestamps, referrer, IP geolocation).</li>
+        <li>Production-ready RESTful architecture with Docker support.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/mallikarjun086"><b>View Repository »</b></a>
+        <a href="https://github.com/mallikarjun086/URL-shortener" target="_blank"><b>📦 View Repository »</b></a>
       </p>
     </td>
   </tr>
@@ -151,11 +195,11 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 
 ---
 
-## 📈 GitHub Metrics & Analytics
+## 📊 GitHub Metrics & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="175" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="175" alt="Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="180" alt="Top Languages" />
 </div>
 
 <br/>
@@ -166,7 +210,7 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 
 <br/>
 
-### 🐍 Contribution Activity Graph
+### 🐍 Contribution Activity
 
 <div align="center">
   <picture>
@@ -183,13 +227,16 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 ## 📫 Connect & Collaborate
 
 <div align="center">
+  <a href="https://3d-portfolio-m7cq.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/3D_Portfolio-https%3A%2F%2F3d--portfolio--m7cq.vercel.app-00C7FF?style=for-the-badge&logo=vercel&logoColor=white" alt="3D Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mallikarjun-gala-32a45729b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
   <a href="mailto:galamallikarjun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/mallikarjun086">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/mallikarjun086">
+  <a href="https://github.com/mallikarjun086" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
@@ -197,6 +244,6 @@ Status: 🚀 Open for Software Engineering Roles & Internships
 <br/>
 
 <div align="center">
-  <p><i>"The best way to predict the future is to invent it."</i></p>
+  <p><i>"Engineering intelligent systems and building software that shapes the future."</i></p>
   <img src="https://komarev.com/ghpvc/?username=mallikarjun086&color=38bdf8&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
