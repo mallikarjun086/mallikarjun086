@@ -197,33 +197,27 @@ Open For: Software Engineering Roles, Full Stack / AI Developer Positions & High
 
 ## 📊 GitHub Metrics & Analytics
 
+<table width="100%" style="border-collapse: collapse; border: none;">
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&border_radius=8&border_color=30363d" width="100%" alt="GitHub Stats" />
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&langs_count=8&theme=transparent&title_color=38bdf8&text_color=e2e8f0&border_radius=8&border_color=30363d" width="100%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
 <div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mallikarjun086&theme=tokyonight&no-bg=true&no-frame=false&column=6&margin-w=10" alt="GitHub Trophies" width="95%" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=mallikarjun086&theme=transparent&background=0d1117&border=30363d&border_radius=8&fire=38bdf8&ring=38bdf8&currStreakNum=38bdf8&currStreakLabel=38bdf8&sideNums=38bdf8&sideLabels=e2e8f0" width="100%" alt="Streak Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Overall Stats & Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mallikarjun086&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&icon_color=38bdf8&bg_color=0d1117" height="190" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mallikarjun086&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=e2e8f0&bg_color=0d1117" height="190" alt="Top Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Commit Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjun086&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff" width="95%" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <!-- Streak Stats -->
-  <img src="https://streak-stats.demolab.com?user=mallikarjun086&theme=tokyonight&hide_border=true&background=0d1117&fire=38bdf8&ring=38bdf8&currStreakLabel=38bdf8" width="95%" alt="Streak Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mallikarjun086&theme=github-compact&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=false&border_radius=8" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -234,7 +228,7 @@ Open For: Software Engineering Roles, Full Stack / AI Developer Positions & High
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg" width="95%">
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/mallikarjun086/mallikarjun086/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
